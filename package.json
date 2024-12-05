@@ -1,0 +1,22 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "an npm package for testing js code",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukul-prasad-zf/test-npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "mukul prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukul-prasad-zf/test-npm/issues"
+  },
+  "homepage": "https://github.com/mukul-prasad-zf/test-npm#readme"
+}
